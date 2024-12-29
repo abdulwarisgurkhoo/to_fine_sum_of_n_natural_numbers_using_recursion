@@ -7,7 +7,7 @@ int call(int num)
   {
     if(num>0)
       {   
-          /
+          
           return call(num-1)+num;    
       }
   }
